@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+streamlit-cicd/
+streamlit-git-practice/
